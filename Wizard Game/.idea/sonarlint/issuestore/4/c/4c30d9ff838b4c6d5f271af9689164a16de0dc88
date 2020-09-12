@@ -1,3 +1,7 @@
 
+]	java:S125A"<This block of commented-out lines of code should be removed.(ı™Ø¹ÿÿÿÿÿ8­ìë•È.
 L
-java:S1066)"/Merge this if statement with the enclosing one.(¸µÙà8Ö»şŒÈ.
+java:S10660"/Merge this if statement with the enclosing one.(¸µÙà8Ö»şŒÈ.
+L
+java:S10667"/Merge this if statement with the enclosing one.(¸µÙà8‚•È.
+s	java:S116"WRename this field "wizard_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òßˆ8ã‚ê•È.

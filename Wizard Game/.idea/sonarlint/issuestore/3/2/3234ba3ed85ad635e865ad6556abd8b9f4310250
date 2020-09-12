@@ -1,19 +1,26 @@
 
-J
-java:S1948"(Make "camera" transient or serializable.(Î¬Òúùÿÿÿÿ8‚öÔŒÈ.
-X	java:S125"<This block of commented-out lines of code should be removed.(ÚÄá÷8ó•½ƒÈ.
+P
+java:S1948".Make "sprite_sheet" transient or serializable.(¸¨«¦ÿÿÿÿÿ8¢æ´•È.
+m
+java:S1104"PMake ammo a static final constant or non-public and provide accessors if needed.(ÉÁÒ–8²ı“È.
+I
+java:S1948"'Make "floor" transient or serializable.(‘ş¬Öşÿÿÿÿ8è˜Ó•È.
 F
 java:S1948")Make "handler" transient or serializable.(Æ¶Ø…8ñ“ÄÇ.
-[
-java:S1854{"9Remove this useless assignment to local variable "green".(ãïĞÿÿÿÿÿ8‹€²ƒÈ.
 N
-java:S14818",Remove this unused "framers" local variable.(¤‹³öıÿÿÿÿ8»ÁÃÇ.
-L
-java:S1481{"*Remove this unused "green" local variable.(ãïĞÿÿÿÿÿ8‹€²ƒÈ.
-D
-java:S1948"'Make "level" transient or serializable.(‚Ä¤œ8ø–˜ƒÈ.
+java:S1481B",Remove this unused "framers" local variable.(¤‹³öıÿÿÿÿ8»ÁÃÇ.
 D
 java:S1948"(Make "thread" transient or serializable.(â£Ÿ48ÙÏ´ÃÇ.
-X	java:S125?"<This block of commented-out lines of code should be removed.(­£øû8èäÆÃÇ.
+J
+java:S1948"(Make "camera" transient or serializable.(Î¬Òúùÿÿÿÿ8‚öÔŒÈ.
+u
+java:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ïŠı©úÿÿÿÿ8€Ùë”È.
+X	java:S125I"<This block of commented-out lines of code should be removed.(­£øû8èäÆÃÇ.
+x	java:S116"WRename this field "sprite_sheet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸¨«¦ÿÿÿÿÿ8¢æ´•È.
+W	java:S125n"<This block of commented-out lines of code should be removed.(Å†¾8Øš×•È.
+D
+java:S1948"'Make "level" transient or serializable.(‚Ä¤œ8ø–˜ƒÈ.
+A
+java:S1948"$Make "ss" transient or serializable.(å±¼Ñ8¸‡Õ•È.
 c
-java:S2142+"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8„ê»ÃÇ.
+java:S21425"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8„ê»ÃÇ.

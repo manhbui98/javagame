@@ -25,3 +25,7 @@ I
 src/game/java/Bullet.java,a\1\a137c7058a0b5c9592981e801614cef3c7c01a53
 H
 src/game/java/Enemy.java,1\d\1dbcad7b6f14f3fc67c678ef8146ec981bfff2c7
+N
+src/game/java/SpriteSheet.java,1\1\11cd01b439549a7ac6eb597f2c2ee6d3ed859b72
+H
+src/game/java/Crate.java,d\2\d2232031414dd8a6433f2cb0f27e7ebb5927d009

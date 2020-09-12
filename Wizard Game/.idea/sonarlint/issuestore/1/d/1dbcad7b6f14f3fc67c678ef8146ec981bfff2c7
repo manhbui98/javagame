@@ -1,7 +1,5 @@
 
-H
-java:S1068"+Remove this unused "handler" private field.(Æ¶Ø…8«ÛÎÈ.
-P
-java:S1172	".Remove this unused method parameter "handler".(ãÂû¢ùÿÿÿÿ8ê„ÏÈ.
-£
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(íÌÆğüÿÿÿÿ8ÄƒÎÈ.
+L
+java:S1066/"/Merge this if statement with the enclosing one.(¸µÙà8˜‡ò“È.
+w	java:S116"VRename this field "enemy_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÛËÏùÿÿÿÿ8æÄğ•È.
+]	java:S125="<This block of commented-out lines of code should be removed.(ıÂÿÙøÿÿÿÿ8·£ó•È.
